@@ -1,0 +1,1 @@
+[root,fx]=bisect(@(x)(sqrt(39.24.*x).*tanh(sqrt(2.4525./x).*4)-36),0,200)
